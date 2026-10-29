@@ -1,0 +1,10 @@
+# Python bytecode and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local study records, backups, and old plan exports
+studyflow_data*.json
+studyflow_plan*.txt
+.studyflow_*.tmp
